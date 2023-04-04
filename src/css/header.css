@@ -1,0 +1,33 @@
+.test{
+    width: 100%;
+    /* height: 10px; */
+    background-color: brown;
+    display: flex;
+}
+.test .logo p{
+    font-size: 26px;
+    color:white;
+    font-weight: bold;
+    margin-left: 25%;
+}
+.signin {
+    padding: 0px 15px;
+    line-height: 30px;
+    font-size: 20px;
+    color: white;
+}
+.signout {
+    line-height: 30px;
+    font-size: 20px;
+    color: white;
+}
+.cart{
+    line-height: 30px;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    margin: 0px 15px;
+}
+.cart button {
+    margin: 0px 10px;
+}

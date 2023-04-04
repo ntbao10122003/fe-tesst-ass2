@@ -1,0 +1,40 @@
+.test3 { 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.box{
+    text-align: center;
+    border-radius: 10px;
+    height: 300px;
+}
+.box:hover{
+    border: 1px solid rgb(82, 214, 102);
+    box-shadow: 1px 2px 12px 1px rgba(0, 0, 255, .2);
+}
+.image{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.title h3 {
+    font-size: 10px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.price span{
+    font-size: 10px;
+    color: #707070;
+}
+.price .sale {
+    font-size: 11px;
+    color: #D70018;;
+}
+.product-bootom {
+    padding : 4% 0%;
+    
+}
+.product-bootom .hr {
+    width: 100%;
+    height: 1px;
+}
